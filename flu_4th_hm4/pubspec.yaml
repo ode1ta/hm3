@@ -1,0 +1,23 @@
+name: flu_4th_hm4
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  dio: ^5.9.2
+  rest_api_client: ^3.0.2
+  flutter_query: ^0.7.0
+
+flutter:
+  uses-material-design: true
